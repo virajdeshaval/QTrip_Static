@@ -29,19 +29,4 @@ QTrip is a travel website aimed at travellers looking for a multitude of adventu
 
 ## Skills Learned:
 
-<h4>• HTML • CSS</h4>
-
-- HTML,
-- CSS,
-- CSS Flexbox,
-- Responsive Design,
-- Bootstrap,
-- VS Code Live Server,
-- Bootstrap Flex,
-- Bootstrap Spacing,
-- Bootstrap Responsive Images,
-- Bootstrap Display,
-- CSS Positioning,
-- Deployment,
-- Netlify,
-- Netlify CLI
+<h4>• HTML • CSS • CSS Flexbox • Responsive Design • Bootstrap • VS Code Live Server • Bootstrap Flex • Bootstrap Spacing • Bootstrap Responsive Images • Bootstrap Display • CSS Positioning • Deployment • Netlify • Netlify CLI</h4>
