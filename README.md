@@ -29,6 +29,8 @@ QTrip is a travel website aimed at travellers looking for a multitude of adventu
 
 ## Skills Learned:
 
+<h4>• HTML • CSS</h4>
+
 - HTML,
 - CSS,
 - CSS Flexbox,
